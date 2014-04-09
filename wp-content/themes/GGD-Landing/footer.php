@@ -1,7 +1,7 @@
 <footer class="wrapper">
 	<div class="container">
 		<div class="row">
-			<div class="col-xs-12 col-sm-4 col-sm-offset-1">
+			<div class="col-xs-12 col-sm-6 col-sm-offset-0">
 				
 				<p class="tiny">
 					<?php echo sprintf( __( '%1$s %2$s %3$s. All Rights Reserved.', 'Gimme Golf Deals' ), '&copy;', date( 'Y' ), esc_html( get_bloginfo( 'name' ) ) ); ?>
@@ -10,7 +10,7 @@
 			</div><!-- END Col -->
 			<div class="col-xs-12 col-sm-6 social-icons">
 				<h3>Follow us</h3>
-				<a href="http://www.facebook.com/Gimmegolfdeals" target="_blank" title="Follow us on Facebook"><i class="fa fa-facebook-square"></i></a>
+				<a href="http://www.facebook.com/greengolfdeals" target="_blank" title="Follow us on Facebook"><i class="fa fa-facebook-square"></i></a>
 				<a href="http://www.twitter.com/greengolfdeals" target="_blank" title="Follow us on Twitter"><i class="fa fa-twitter-square"></i></a>
 			</div>
 			

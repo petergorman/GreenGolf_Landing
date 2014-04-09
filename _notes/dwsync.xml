@@ -10,7 +10,6 @@
 <file name="wp-blog-header.php" server="ftp.pixelab.com.au/www/gimmegolfdeals/" local="130382750931520283" remote="130382731800000000" Dst="2" />
 <file name="wp-comments-post.php" server="ftp.pixelab.com.au/www/gimmegolfdeals/" local="130382750931560176" remote="130382731800000000" Dst="2" />
 <file name="wp-config-sample.php" server="ftp.pixelab.com.au/www/gimmegolfdeals/" local="130382750931590161" remote="130382731800000000" Dst="2" />
-<file name="gimmegolfdeals.sql" server="ftp.pixelab.com.au/www/gimmegolfdeals/" local="130382834403560479" remote="130382731800000000" Dst="2" />
 <file name="wp-cron.php" server="ftp.pixelab.com.au/www/gimmegolfdeals/" local="130382750972322541" remote="130382731800000000" Dst="2" />
 <file name="wp-links-opml.php" server="ftp.pixelab.com.au/www/gimmegolfdeals/" local="130382751012034296" remote="130382731800000000" Dst="2" />
 <file name="wp-load.php" server="ftp.pixelab.com.au/www/gimmegolfdeals/" local="130382751012064785" remote="130382731800000000" Dst="2" />
@@ -21,4 +20,27 @@
 <file name="xmlrpc.php" server="ftp.pixelab.com.au/www/gimmegolfdeals/" local="130382751014174535" remote="130382731800000000" Dst="2" />
 <file name="wp-signup.php" server="ftp.pixelab.com.au/www/gimmegolfdeals/" local="130382751013444577" remote="130382731800000000" Dst="2" />
 <file name="google34e29635f443b35e.html" server="ftp.pixelab.com.au/www/gimmegolfdeals/" local="130383566346895333" remote="130383459600000000" Dst="2" />
+<file name=".gitattributes" server="ftp.pixelab.com.au/www/greengolfdeals/" local="130356847963626495" remote="130415182800000000" Dst="1" />
+<file name=".gitignore" server="ftp.pixelab.com.au/www/greengolfdeals/" local="130356847963876689" remote="130415182800000000" Dst="1" />
+<file name=".htaccess" server="ftp.pixelab.com.au/www/greengolfdeals/" local="130381527775595278" remote="130415182800000000" Dst="1" />
+<file name="google34e29635f443b35e.html" server="ftp.pixelab.com.au/www/greengolfdeals/" local="130415297499180816" remote="130415225400000000" Dst="1" />
+<file name="Green Golf Deals - Landing Page V1.ste" server="ftp.pixelab.com.au/www/greengolfdeals/" local="130408781988041977" remote="130415183400000000" Dst="1" />
+<file name="index.php" server="ftp.pixelab.com.au/www/greengolfdeals/" local="130381486320900883" remote="130415183400000000" Dst="1" />
+<file name="license.txt" server="ftp.pixelab.com.au/www/greengolfdeals/" local="130381486322051731" remote="130415183400000000" Dst="1" />
+<file name="readme.html" server="ftp.pixelab.com.au/www/greengolfdeals/" local="130381486322481996" remote="130415183400000000" Dst="1" />
+<file name="wp-activate.php" server="ftp.pixelab.com.au/www/greengolfdeals/" local="130381486323702749" remote="130415183400000000" Dst="1" />
+<file name="wp-blog-header.php" server="ftp.pixelab.com.au/www/greengolfdeals/" local="130381486324173059" remote="130415183400000000" Dst="1" />
+<file name="wp-comments-post.php" server="ftp.pixelab.com.au/www/greengolfdeals/" local="130381486324943575" remote="130415183400000000" Dst="1" />
+<file name="wp-config-sample.php" server="ftp.pixelab.com.au/www/greengolfdeals/" local="130381486325854173" remote="130415183400000000" Dst="1" />
+<file name="wp-config_Local.php" server="ftp.pixelab.com.au/www/greengolfdeals/" local="130403085752346813" remote="130415183400000000" Dst="1" />
+<file name="wp-config.php" server="ftp.pixelab.com.au/www/greengolfdeals/" local="130415246378876740" remote="130415183400000000" Dst="1" />
+<file name="wp-cron.php" server="ftp.pixelab.com.au/www/greengolfdeals/" local="130381486326414558" remote="130415183400000000" Dst="1" />
+<file name="wp-links-opml.php" server="ftp.pixelab.com.au/www/greengolfdeals/" local="130381486327275186" remote="130415183400000000" Dst="1" />
+<file name="wp-load.php" server="ftp.pixelab.com.au/www/greengolfdeals/" local="130381486327815539" remote="130415183400000000" Dst="1" />
+<file name="wp-login.php" server="ftp.pixelab.com.au/www/greengolfdeals/" local="130381486332188401" remote="130415183400000000" Dst="1" />
+<file name="wp-mail.php" server="ftp.pixelab.com.au/www/greengolfdeals/" local="130381486333779506" remote="130415183400000000" Dst="1" />
+<file name="wp-settings.php" server="ftp.pixelab.com.au/www/greengolfdeals/" local="130381486334500010" remote="130415183400000000" Dst="1" />
+<file name="wp-signup.php" server="ftp.pixelab.com.au/www/greengolfdeals/" local="130381486339603385" remote="130415183400000000" Dst="1" />
+<file name="wp-trackback.php" server="ftp.pixelab.com.au/www/greengolfdeals/" local="130381486340273834" remote="130415183400000000" Dst="1" />
+<file name="xmlrpc.php" server="ftp.pixelab.com.au/www/greengolfdeals/" local="130381486342054973" remote="130415183400000000" Dst="1" />
 </dwsync>

@@ -19,7 +19,7 @@ Template Name: Landing Page
 			
 		</div><!-- END Col -->
 		
-		<div class="col-xs-12 col-sm-6 col-sm-offset-3 col-md-4 col-md-offset-4">
+		<div class="col-xs-12 col-sm-8 col-sm-offset-2 col-md-6 col-md-offset-3">
 		
 			<?php if ( have_posts() ) : while ( have_posts() ) : the_post(); the_content(); endwhile; else: ?>
 			<p>Sorry, no posts matched your criteria.</p>
@@ -38,7 +38,7 @@ Template Name: Landing Page
 <section class="wrapper about-section">
 	<div class="container">
 		<div class="row">
-			<div class="col-xs-12 col-sm-6 col-sm-offset-1 about-content">
+			<div class="col-xs-12 col-sm-7 col-sm-offset-0 about-content">
 				
 				<?php the_field('about_section'); ?>
 				
@@ -46,11 +46,18 @@ Template Name: Landing Page
 			
 			
 			
-			<div class="col-xs-12 col-sm-4 follow-us">
+			<div class="col-xs-12 col-sm-5 follow-us">
 			
-				<div class="fb-like-box" data-href="https://www.facebook.com/gimmegolfdeals" data-width="100%" data-height="240px" data-colorscheme="light" data-show-faces="true" data-header="false" data-stream="false" data-show-border="true"></div>
+				<div class="fb-like-box visible-lg" data-href="https://www.facebook.com/greengolfdeals" data-width="446px" data-height="240px" data-colorscheme="light" data-show-faces="true" data-header="false" data-stream="false" data-show-border="true"></div>
+			
+				<div class="fb-like-box visible-md" data-href="https://www.facebook.com/greengolfdeals" data-width="446px" data-height="240px" data-colorscheme="light" data-show-faces="true" data-header="false" data-stream="false" data-show-border="true"></div>
+				
+				<div class="fb-like-box visible-sm" data-href="https://www.facebook.com/greengolfdeals" data-width="350px" data-height="240px" data-colorscheme="light" data-show-faces="true" data-header="false" data-stream="false" data-show-border="true"></div>
+				
+				<div class="fb-like-box visible-xs" data-href="https://www.facebook.com/greengolfdeals" data-width="300px" data-height="240px" data-colorscheme="light" data-show-faces="true" data-header="false" data-stream="false" data-show-border="true"></div>
 				
 			</div><!-- END Col -->
+			
 		</div><!-- END Row -->
 	</div><!-- END Container -->
 </section><!-- END Wrapper -->
@@ -59,12 +66,12 @@ Template Name: Landing Page
 <section class="wrapper contact-section">
 	<div class="container">
 		<div class="row">
-			<div class="col-xs-12 col-sm-10 col-sm-offset-1">
+			<div class="col-xs-12 col-sm-12 col-sm-offset-0">
 			
 				<?php the_field('contact_section'); ?>
 				
 				<br>
-				<a href="mailto:greg@Greengolfdeals.com.au"><button type="button" class="btn ggd-btn btn-white col-xs-12 col-sm-4"><h2>Let's talk</h2></button></a>
+				<a href="mailto:sales@Greengolfdeals.com.au"><button type="button" class="btn ggd-btn btn-white col-xs-12 col-sm-4"><h2>Let's talk</h2></button></a>
 			</div><!-- END Col -->
 		</div><!-- END Row -->
 	</div><!-- END Container -->

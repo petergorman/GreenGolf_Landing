@@ -1,4 +1,7 @@
+@import url(http://fonts.googleapis.com/css?family=Raleway:400,300,600,700);
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400italic,400,300,600,700);
 /* Scss Document */
+/* Google Fonts */
 /* Colors */
 /* Orange */
 /* Blue Grey */
@@ -85,12 +88,13 @@ h1 {
 
 h2 {
   font-family: "SiscoMedium-Medium", Helvetica, Arial, sans-serif;
-  font-size: 1.4375em;
+  font-size: 1.5625em;
   color: white;
 }
 
 h4 {
-  font-family: "SiscoLight", Helvetica, Arial, sans-serif;
+  font-family: "Open Sans", Helvetica, Arial, sans-serif;
+  font-weight: 300;
   font-size: 1em;
   color: white;
 }
@@ -102,8 +106,9 @@ h3 {
 }
 
 p {
-  font-family: "SiscoLight", Helvetica, Arial, sans-serif;
+  font-family: "Open Sans", Helvetica, Arial, sans-serif;
   font-size: 1em;
+  font-weight: 400;
   color: #505862;
 }
 p span {
@@ -233,8 +238,9 @@ form .ggd-input {
   color: #999999;
 }
 form input, form select, form option {
-  font-family: "SiscoLight", Helvetica, Arial, sans-serif;
-  font-size: 20px;
+  font-family: "Open Sans", Helvetica, Arial, sans-serif;
+  font-weight: 300;
+  font-size: 1.125em !important;
   color: #505862;
 }
 
@@ -242,7 +248,7 @@ form input, form select, form option {
 .wpcf7-form .wpcf7-submit {
   margin: 0px;
   font-family: "SiscoMedium-Medium", Helvetica, Arial, sans-serif;
-  font-size: 0.875em;
+  font-size: 1.25em;
   text-transform: uppercase;
   color: white;
 }
@@ -302,12 +308,15 @@ form input, form select, form option {
   display: block;
   width: 49%;
   list-style: circle;
+  margin-top: 10px;
   /* @include breakpoint(xs) { height:639px; } */
 }
 .about-section ul li {
-  font-family: "SiscoLight", Helvetica, Arial, sans-serif;
+  font-family: "Open Sans", Helvetica, Arial, sans-serif;
+  font-weight: 400;
   font-size: 1em;
   color: #505862;
+  margin-bottom: 10px;
   /* @include breakpoint(xs) { height:639px; } */
 }
 @media (min-width: 768px) {

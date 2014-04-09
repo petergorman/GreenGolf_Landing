@@ -14,9 +14,9 @@
 <!-- Open Graph data -->
 <meta property="og:title" content="Green Golf Deals - Teeing up Australia's best golf deals" />
 <meta property="og:type" content="website" />
-<meta property="og:url" content="http://www.greengolfdeals.com.au" />
+<meta property="og:url" content="http://www.greengolfdeals.com" />
 <meta property="og:image" content="<?php bloginfo('template_directory'); ?>/img/fb-image.jpg" />
-<meta property="og:description" content="green Golf Deals tees up the best golf deals from half price green fees to discounted golf gear to weekend trips" />
+<meta property="og:description" content="Green Golf Deals tees up the best golf deals from half price green fees to discounted golf gear to weekend trips" />
 
 <link rel="icon" type="image/png" href="<?php bloginfo('template_directory'); ?>/img/favicon.png" />
 

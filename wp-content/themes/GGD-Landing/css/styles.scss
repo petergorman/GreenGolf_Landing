@@ -1,5 +1,9 @@
 /* Scss Document */
 
+/* Google Fonts */
+@import url(http://fonts.googleapis.com/css?family=Raleway:400,300,600,700);
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400italic,400,300,600,700);
+
 /* Colors */
 
 $color-1: #f47238; /* Orange */
@@ -112,6 +116,7 @@ $section-padding: em(35);
 
 $font-stack-medium: 'SiscoMedium-Medium', Helvetica, Arial, sans-serif;
 $font-stack-light: 'SiscoLight', Helvetica, Arial, sans-serif;
+$font-stack-open: 'Open Sans', Helvetica, Arial, sans-serif;
 $font-stack-serif: Helvetica, Arial, sans-serif;
 
 
@@ -128,12 +133,13 @@ h1 {
 
 h2 {
 	font-family:$font-stack-medium;
-	font-size: em(23);
+	font-size: em(25);
 	color:$color-3;
 }
 
 h4 {
-	font-family:$font-stack-light;
+	font-family:$font-stack-open;
+	font-weight:300;
 	font-size:em(16);
 	color:$color-3;
 }
@@ -145,8 +151,9 @@ h3 {
 }
 
 p {
-	font-family:$font-stack-light;
+	font-family:$font-stack-open;
 	font-size:em(16);
+	font-weight:400;
 	color:$color-2;
 	
 	span {
@@ -302,8 +309,9 @@ form {
 	}
 	
 	input, select, option {
-		font-family:$font-stack-light;
-		font-size:20px;
+		font-family:$font-stack-open;
+		font-weight:300;
+		font-size:em(18) !important;
 		color:$color-2;
 	}
 	
@@ -316,7 +324,7 @@ form {
 	.wpcf7-submit {
 		margin:0px;
 		font-family:$font-stack-medium;
-		font-size: em(14);
+		font-size: em(20);
 		text-transform:uppercase;
 		color:$color-3;
 	}
@@ -381,11 +389,14 @@ form {
 		display:block;
 		width:49%;
 		list-style:circle;
+		margin-top:10px;
 		
 		li {
-			font-family:$font-stack-light;
+			font-family:$font-stack-open;
+			font-weight:400;
 			font-size:em(16);
 			color:$color-2;
+			margin-bottom:10px;
 			
 			@include breakpoint(sm) {
 				font-size:em(14);
