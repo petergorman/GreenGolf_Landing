@@ -1,4 +1,12 @@
 #################
+## Config
+#################
+
+wp-config-sample.php
+wp-config.php
+wp-config_Local.php
+
+#################
 ## Eclipse
 #################
 
